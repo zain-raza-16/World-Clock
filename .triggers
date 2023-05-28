@@ -1,0 +1,1 @@
+[{"type":"deploy","id":"deploy","command":"npm install && npm run start","test_event":"","settings":{"port":"8080"}}]
